@@ -18,8 +18,34 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+        <wp_options>                 <wp_option>
+                    <name>shopengine_template__post_meta__shop</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__archive</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__single</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__cart</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__checkout</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__quick_view</name>
+                    <val>0</val>
+                </wp_option>
+                
+        </wp_options> 	<item>
 		<title>Fresh Organic SuSu Cheap Tasty Tonic</title>
 		<link>https://nphuoctho.github.io/nphuoctho.wordpress.io/product/fresh-organic-susu-cheap-tasty-tonic/</link>
 					<comments>https://nphuoctho.github.io/nphuoctho.wordpress.io/product/fresh-organic-susu-cheap-tasty-tonic/#respond</comments>
